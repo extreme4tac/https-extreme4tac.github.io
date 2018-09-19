@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
 a {
   text-decoration: none;
 }
@@ -153,6 +162,7 @@ header {
   width: 100%;
   color: white;
 }
+
 .owner-icon img {
   width: 75%;
 }
