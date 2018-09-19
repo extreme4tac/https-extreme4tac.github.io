@@ -136,24 +136,24 @@ header {
   font-weight: normal;
 }
 
-.orner {
+.owner {
   float: left;
   width: 33.333%;
 }
 
-.orner-icon {
+.owner-icon {
   position: relative;
   font-size: 36px;
   color: black;
 }
 
-.orner-icon p {
+.owner-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
   color: white;
 }
-.orner-icon img {
+.owner-icon img {
   width: 75%;
 }
 
