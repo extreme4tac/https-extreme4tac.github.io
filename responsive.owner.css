@@ -1,6 +1,6 @@
 /* タブレット向けレイアウト */
 @media all and (max-width: 1000px) {
-  .owners {
+  .owner {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -20,7 +20,7 @@
 
 /* スマホ向けレイアウト */
 @media all and (max-width: 670px) {
-  .owners {
+  .owner {
     width: 100%;
   }
 
@@ -38,6 +38,7 @@
 
   .header-right {
     display: none;
+    width: 100%;
   }
 
   .header-left {
@@ -50,6 +51,10 @@
 
   .top-wrapper h1 {
     font-size: 24px;
+  }
+
+  .top-wrapper h2 {
+    width: 100%;
   }
 
   .top-wrapper p {
