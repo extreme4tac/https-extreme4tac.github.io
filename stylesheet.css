@@ -24,9 +24,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("The Arcadia Alumni Association presents.jpg");
+  background-image: url("Surf girl.jpg");
   background-size: cover;
-  color: white;
+  color: #00bfff;
   text-align: center;
 }
 
@@ -38,6 +38,7 @@ a {
 
 .top-wrapper p {
   opacity: 0.7;
+  color: #8b0000;
 }
 
 .btn-wrapper {
@@ -47,6 +48,7 @@ a {
 
 .btn-wrapper p {
   margin: 10px 0;
+  color: white;
 }
 
 .signup {
@@ -145,12 +147,11 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 33.3%;
 }
 
 .lesson-icon {
   position: relative;
-  
 }
 
 .lesson-icon p {
@@ -159,7 +160,6 @@ header {
   width: 100%;
   color: white;
 }
-
 .lesson-icon img {
   width: 75%;
 }
