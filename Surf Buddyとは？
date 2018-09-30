@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+　  <html lang="ja">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surf Buddyとは？</title>
+    <link rel="stylesheet" href="surf buddyとは？.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <a href="index.html"><img src="surf buddy.jpg" class="logo"></a>
+        </div>
+        <span class="fa fa-bars menu-icon"></span>
+
+        <div class="header-right">
+          <a href="Surf.buddyとは？.html">Surf Buddyとは？</a>
+          <a href="新規登録.html">新規登録</a>
+          <a href="Login.html" class="login">ログイン</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>Surf Buddyとは？</h1>
+        <div class="btn-wrapper">
+          <a href="新規登録.html" class="btn signup">新規登録はこちら</a>
+          <p>or</p>
+          <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
+          <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
+        </div>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Learn Where to Get Started!</h2>
+        </div>
+        <div class="lessons">
+
+          <div class="lesson">
+            <a href="ページ１.html#profile" title="ページ１"></a>
+            <div class="lesson-icon">　
+            <p>このサイトはサーフィンに行く人たちのマッチングサイトです。サーフィンをやってみたいけどやり方がわからない、一緒に行く人がいないなどの問題を解決できます。</p>
+
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>さぁ、あなたもサーフィンをやってみませんか?</h2>
+          <h3>Let's learn to Surf, learn to be cool.</h3>
+        </div>
+        <a class="btn message" href="オーナー一覧.html">オーナーを探す</a>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <a href="index.html"><img src="surf buddy.jpg" class="logo"></a>
+        <p>Learn to Surf, learn to be cool.</p>
+        <p>COPYRIGHT Surf Buddy ALL RIGHTS RESERVED.</p>
+      </div>
+    </footer>
+  </body>
+</html>
