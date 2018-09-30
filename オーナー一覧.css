@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("surf guy.jpg");
+  background-image: url("Surf guy.jpg");
   background-size: cover;
   color: #00bfff;
   text-align: center;
@@ -181,6 +181,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 1px;
+  margin-bottom: 90px;
   font-size: 13px;
   color: #b3aeb5;
 }
