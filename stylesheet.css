@@ -143,6 +143,12 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  display:block;
+  color: #32cd32;
+  font-size:24px;
+  line-height:10px;
+  letter-spacing:1px;
+  text-shadow:5px 5px 10px #888;
 }
 
 .lesson {
@@ -184,9 +190,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #87cefa;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #1e90ff;
 }
 
 .message:active {
